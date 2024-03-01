@@ -1,7 +1,7 @@
 ## Introduction
 
 
-<b>Discipline | <b>Computer Science
+<b>Discipline | <b>Computer Science(Testing)
 :--|:--|
 <b> Lab | <b> Blockchain Technology
 <b> Experiment|     <b> Introduction of Crypro...
